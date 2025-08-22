@@ -1,0 +1,19 @@
+:host {
+    max-width: 325px;
+    display: block;
+}
+
+p.description {
+    min-height: 60px;
+}
+
+img.specie {
+    height: 200px;
+    border-radius: 1.5rem;
+    -webkit-border-radius: 1.5rem;
+    -moz-border-radius: 1.5rem;
+    -ms-border-radius: 1.5rem;
+    -o-border-radius: 1.5rem;
+    border: 1px solid rgb(255, 255, 255);
+}
+

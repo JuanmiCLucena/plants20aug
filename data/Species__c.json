@@ -1,0 +1,20 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Species__c",
+                "referenceId": "Species__cRef1"
+            },
+            "Description__c": "Conocida por sus propiedades medicinales y aplicaciones para la piel",
+            "Ideal_Max_Temperature__c": 25,
+            "Image_URL__c": "https://creative-badger-mjpnc8-dev-ed.trailblaze.my.salesforce.com/sfc/p/d200000MRb5F/a/d20000003GjN/5tLgAaZIwtYoCMbw4I3d6mB7Ks2UkAPd1IQN6xGZa9Y",
+            "Image__c": "<img src=\"https://creative-badger-mjpnc8-dev-ed.trailblaze.file.force.com/sfc/servlet.shepherd/version/renditionDownload?rendition=ORIGINAL_Jpg&amp;versionId=068d2000008PLEL&amp;operationContext=CHATTER&amp;contentId=05Td200000As2O9\" alt=\"Aloe Vera\" border=\"0\"/>",
+            "Location__c": "Outdoors",
+            "Name": "Aloe Vera",
+            "OwnerId": "005d200000DQdvvAAD",
+            "Pulverization__c": false,
+            "SystemModstamp": "2025-08-18T09:56:07.000+0000",
+            "Type__c": "Ornamental"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+<template>
+   <div class="slds-align_absolute-center">
+    <div class="slds-grid slds-grid_align-spread grid">
+        <template if:true={species.data}>
+            <template for:each={species.data} for:item="specie">
+                <div key={specie.Name}>
+                    <c-species-tile
+                        specie={specie}
+                        class="slds-col slds-var-m-around_small"
+                    ></c-species-tile>
+                </div>
+            </template>
+        </template>
+        <template if:true={species.error}>Tremendo fallo</template>
+    </div>
+   </div>
+</template>
